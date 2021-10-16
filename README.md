@@ -5,8 +5,8 @@ AMCL-based indoor UGV navigation
 
 **Videos:**
 
-<a href="https://www.youtube.com/embed/1qye82aW7nI" target="_blank"><img src="http://img.youtube.com/vi/1qye82aW7nI/0.jpg" 
-alt="AMCL-Loc" width="320" height="240" border="10" /></a>
+<a href="https://youtu.be/yaeYNCktklY" target="_blank"><img src="https://i9.ytimg.com/vi/yaeYNCktklY/mq2.jpg?sqp=CKyuqIsG&rs=AOn4CLBmdcQeUB9SEMmxG-MdArFOInk37Q" 
+alt="AMCL-Loc" width="1280" height="480" border="10" /></a>
 
 ## Acknowlegements
 [Karto SLAM](https://wiki.ros.org/slam_karto)
