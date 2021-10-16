@@ -1,7 +1,7 @@
 # AGV AMCL
 **Introduction**
 
-AMCL-based indoor UGV navigation
+AMCL-based indoor AGV navigation
 
 **Videos:**
 <p align="left">
