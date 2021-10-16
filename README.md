@@ -5,7 +5,7 @@ AMCL-based indoor UGV navigation
 
 **Videos:**
 <p align="center">
-  <img src="amcl.png"/>
+  <img src="amcl.png" width = "480" height = "280" />
 </p>
 
 [Youtube](https://youtu.be/yaeYNCktklY)
